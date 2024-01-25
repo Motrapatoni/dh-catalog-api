@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "sku": "SKUTESTMOI",
+      "active": true,
+      "price": 150
+    },
+    {
+      "sku": "75WITE",
+      "price": 800
+    },
+    {
+      "sku": "SKUCOCATEST",
+      "price": 120,
+      "quantity": 4
+    },
+    {
+      "sku": "SKUACEITETEST",
+      "price": 200,
+      "quantity": 60,
+      "maximum_sales_quantity": 8
+    }
+  ]
+}

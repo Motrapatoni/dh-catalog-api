@@ -1,0 +1,11 @@
+{
+  "barcode": "07613035375116",
+  "category_ids": [
+    "42507fb7-a0af-4419-a079-f97e4ad4f7e7"
+  ],
+  "sku": "SKUTESTMOI",
+  "price": 200,
+  "active": true,
+  "maximum_sales_quantity": 10,
+  "sales_buffer": 100
+}
